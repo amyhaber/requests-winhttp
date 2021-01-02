@@ -1,2 +1,2 @@
-# winhttp-cpp
-a windows oriented ultra-lightweight http client implementation with modern c++ and based on WinHttp
+# requests-winhttp
+An ultra-lightweight, C11 & C99 implemented python requests-API like http client library, based on WinHttp
